@@ -2,8 +2,8 @@
 #!/bin/bash
  
 WEB_PATH='/var/www/dev.lovelucy.info'
-WEB_USER='lovelucydev'
-WEB_USERGROUP='lovelucydev'
+WEB_USER='Just-Ly'
+WEB_USERGROUP='Just-Ly'
  
 echo "Start deployment"
 cd $WEB_PATH
